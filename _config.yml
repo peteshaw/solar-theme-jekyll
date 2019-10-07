@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Learning to FLy
+url: http://peteshaw.github.io
+description: Just some random posts as I learn about all this cloud stuff.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
@@ -8,4 +8,3 @@ paginate: 10
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 markdown: kramdown
-
