@@ -32,8 +32,10 @@ table {
 
 /*** Basics ***/
 body {
-	font-family: Verdana, serif;
-	font-size: 13px;
+	
+	font-family: 'Poppins', Verdana, sans-serif;
+	/*font-family: Verdana, serif;*/
+	font-size: 1em;
 	line-height: 1.7;
 }
 
