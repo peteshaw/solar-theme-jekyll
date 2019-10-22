@@ -33,7 +33,7 @@ body {
 	
 	font-family: 'Poppins', sans-serif;
 	/*font-family: Verdana, serif;*/
-	font-size: 10px;
+	font-size: 15px;
 	line-height: 1.5;
 }
 
@@ -76,15 +76,15 @@ acronym, abbr {
 }
 
 h1 {
-	font-size: 17px;
+	font-size: 24px;
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 15px;
+	font-size: 20px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 17px;
 	margin: 0 0 10px 0;
 }
 
@@ -104,13 +104,13 @@ h3 {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 1024px;
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 500px;
+	width: 1024px;
 	margin: 40px auto 50px auto;
 }
 #header h1 {
