@@ -4,7 +4,7 @@ title: Does this thing still work?
 published: true
 ---
 
-06/07/2021
+#### 20210607
 
 #Hello again, its me!
 
