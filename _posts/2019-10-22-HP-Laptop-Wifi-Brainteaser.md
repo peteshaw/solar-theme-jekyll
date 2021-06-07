@@ -4,7 +4,7 @@ title: HP Laptop Wireless Connectivity Issue.
 published: true
 ---
 
-10/22/2019
+#### 20191022
 
 ## Troubleshooting HP Zbook Laptop Wifi Connection
 
