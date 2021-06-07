@@ -4,6 +4,8 @@ title: HP Laptop Wireless Connectivity Issue.
 published: true
 ---
 
+10/22/2019
+
 ## Troubleshooting HP Zbook Laptop Wifi Connection
 
 So I had a rather perplexing issue with my laptop, an [HP Zbook 17 G2](www.google.com/search?q=HP%20Zbook%2017%20G2).  Occasionally I would enable the WiFi hotspot to update a phone, and while this worked for a while, it would go through this pattern where I would enable the WiFi, and about 3 seconds later it would turn off.
