@@ -51,4 +51,4 @@ A lot of the work I do is solving problems and this was a minor one, but I think
 4. Make alist of everything you try
 5. Keep working it until you figure it out.
 
-[HP-Wlan-Service]: https://peteshaw.github.io/images\HP-LAN-WLAN-Service.png "HP WLAN Service"
+[HP-Wlan-Service]: https://peteshaw.github.io/images/HP-LAN-WLAN-Service.png "HP WLAN Service"
